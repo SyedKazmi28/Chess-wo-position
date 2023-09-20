@@ -1,0 +1,110 @@
+#main{
+    border-left: grey solid 5px;
+  border-top: grey solid 5px;
+  border-right: black solid 5px;
+  border-bottom: black solid 5px;
+  width: 508px;
+  height: 508px;
+}
+.box1{
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    border: 8px black ;
+}
+.box2{
+    height: 60px;
+    width: 60px;
+    background-color: #93b10ff3;
+    display: inline-block;
+    
+}
+.pawn{
+    background-image: url(/images/pawnb.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.pawnw{
+    background-image: url(/images/pawn.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.rookb{
+    background-image: url(/images/rookb.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.knightb{
+    background-image: url(/images/knightb.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.bishopb{
+    background-image: url(/images/bishopbl.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.crownb{
+    background-image: url(/images/crownb.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.queenb{
+    background-image: url(/images/queenb.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.rookw{
+    background-image: url(/images/rookw.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.knightw{
+    background-image: url(/images/knightw.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.bishopw{
+    background-image: url(/images/bishopwh.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.crownw{
+    background-image: url(/images/crownw.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+.queenw{
+    background-image: url(/images/queenw.png);
+    background-repeat: no-repeat;
+    background-size: 30px ;
+    background-position: center;
+
+}
+h1{
+    font-weight: bolder;
+    font-style: italic;
+}
